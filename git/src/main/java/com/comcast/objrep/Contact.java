@@ -1,9 +1,14 @@
 package com.comcast.objrep;
 
 public class Contact {
-  // junior//
+	 /**
+	   * @user1
+	   */
 	public void createContact() {
 		
 	}
 
+public void createContact(String contName, long mobileNum) {
+		
+	}
 }
